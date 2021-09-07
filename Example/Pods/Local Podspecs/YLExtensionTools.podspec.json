@@ -1,22 +1,25 @@
 {
   "name": "YLExtensionTools",
   "version": "0.1.0",
-  "summary": "A short description of YLExtensionTools.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/yuanliangios@163.com/YLExtensionTools",
+  "summary": "YLExtensionTools are Some of the extensions used in swift development.",
+  "description": "YLExtensionTools are Some of the extensions used in swift development. Currently version 0.1.0, including extensions to the color class.",
+  "homepage": "https://github.com/yuanliangYL/YLExtensionTools",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "yuanliangios@163.com": "yuanliangios@163.com"
+    "AlbertYuan": "yuanliangios@163.com"
   },
   "source": {
-    "git": "https://github.com/yuanliangios@163.com/YLExtensionTools.git",
+    "git": "https://github.com/yuanliangYL/YLExtensionTools.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "YLExtensionTools/Classes/**/*"
+  "swift_versions": "5.0",
+  "source_files": "YLExtensionTools/Classes/**/*",
+  "frameworks": "UIKit",
+  "swift_version": "5.0"
 }

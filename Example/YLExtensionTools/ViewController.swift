@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import YLExtensionTools
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        view.backgroundColor = UIColor.init(hex: "ff33ee")
+
     }
 
     override func didReceiveMemoryWarning() {
