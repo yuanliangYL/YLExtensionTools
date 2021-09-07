@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YLExtensionTools'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'YLExtensionTools are Some of the extensions used in swift development.'
 
 # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/yuanliangYL/YLExtensionTools.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.0'
   s.swift_versions = '5.0'
 
   s.source_files = 'YLExtensionTools/Classes/**/*'

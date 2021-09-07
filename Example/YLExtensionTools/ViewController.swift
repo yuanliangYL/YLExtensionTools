@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        view.backgroundColor = UIColor.init(hex: "ff33ee")
+        view.backgroundColor = UIColor.random()
 
     }
 
