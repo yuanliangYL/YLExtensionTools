@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'YLExtensionTools_Example' do
+  pod 'YLExtensionTools', :path => '../'
+
+  target 'YLExtensionTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
