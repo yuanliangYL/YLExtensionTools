@@ -1,0 +1,6 @@
+framework module YLExtensionTools {
+  umbrella header "YLExtensionTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

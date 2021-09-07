@@ -1,0 +1,16 @@
+PODS:
+  - YLExtensionTools (0.1.0)
+
+DEPENDENCIES:
+  - YLExtensionTools (from `../`)
+
+EXTERNAL SOURCES:
+  YLExtensionTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YLExtensionTools: 51f8736ad7ac5abd7c944480bd7235fa285d1adc
+
+PODFILE CHECKSUM: 2f7bde86ee304bea17e15efb4392af31592f83bc
+
+COCOAPODS: 1.10.1

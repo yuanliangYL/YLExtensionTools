@@ -1,0 +1,22 @@
+{
+  "name": "YLExtensionTools",
+  "version": "0.1.0",
+  "summary": "A short description of YLExtensionTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yuanliangios@163.com/YLExtensionTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuanliangios@163.com": "yuanliangios@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yuanliangios@163.com/YLExtensionTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YLExtensionTools/Classes/**/*"
+}
