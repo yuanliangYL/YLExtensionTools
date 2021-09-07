@@ -22,7 +22,7 @@ pod 'YLExtensionTools'
 
 ## Author
 
-yuanliangios@163.com, yuanliangios@163.com
+AlbertYuan yuanliangios@163.com
 
 ## License
 
