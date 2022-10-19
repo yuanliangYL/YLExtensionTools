@@ -12,7 +12,7 @@ import UIKit
 public extension UIColor {
 
     //更新一个版本了
-    //测试时间
+    //测试时间0.1.2了
 
     convenience init(hex: String) {
         self.init(hex: hex, alpha: 1)

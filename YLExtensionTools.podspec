@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YLExtensionTools'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'YLExtensionTools are Some of the extensions used in swift development.'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-                        YLExtensionTools are Some of the extensions used in swift development. Currently version 0.1.1, including extensions to the color class.
+                        YLExtensionTools are Some of the extensions used in swift development. Currently version 0.1.2, including extensions to the color class.
                        DESC
 
   s.homepage         = 'https://github.com/yuanliangYL/YLExtensionTools'
