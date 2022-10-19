@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-                        YLExtensionTools are Some of the extensions used in swift development. Currently version 0.1.0, including extensions to the color class.
+                        YLExtensionTools are Some of the extensions used in swift development. Currently version 0.1.1, including extensions to the color class.
                        DESC
 
   s.homepage         = 'https://github.com/yuanliangYL/YLExtensionTools'

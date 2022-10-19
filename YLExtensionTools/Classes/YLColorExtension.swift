@@ -11,6 +11,9 @@ import UIKit
 
 public extension UIColor {
 
+    //更新一个版本了
+    //测试时间
+
     convenience init(hex: String) {
         self.init(hex: hex, alpha: 1)
     }
@@ -58,5 +61,6 @@ public extension UIColor {
     static func random(with alpha: CGFloat) -> UIColor {
 
         return UIColor.init(red: CGFloat(arc4random()%256)/255.0, green: CGFloat(arc4random()%256)/255.0, blue: CGFloat(arc4random()%256)/255.0, alpha: alpha)
+        
     }
 }
