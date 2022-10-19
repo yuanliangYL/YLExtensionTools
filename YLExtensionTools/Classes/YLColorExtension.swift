@@ -13,6 +13,11 @@ public extension UIColor {
 
     //更新一个版本了
     //测试时间0.1.2了
+    //哈哈哈哈
+
+    func test(){
+        print("aaaa")
+    }
 
     convenience init(hex: String) {
         self.init(hex: hex, alpha: 1)
